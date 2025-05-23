@@ -9,3 +9,4 @@ mvn compile quarkus:dev
 service becomes available under:
 
 `http://localhost:8080/q/swagger-ui`
+test
